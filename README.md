@@ -3,10 +3,15 @@
 ## How to Make Contributions to this Repo
 
 1. Fork the repo
+
 2. Clone the forked repo to your local machine
+
 3. Add the original repo as a remote called upstream
+
 4. Create a new branch to work (e.g. `git checkout -b ft-resources-rest-endpoints`)
+
 5. Implement your feature on the branch you created
+
 6. After you have implemented your feature, run the following in your terminal:
 
 * `git add .`
