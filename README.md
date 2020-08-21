@@ -30,7 +30,6 @@ All contributors should adhere to the following branch naming format:
 -   rf == refactor
 -   ch == chore
 
-
 #### Example 
 
 ```
