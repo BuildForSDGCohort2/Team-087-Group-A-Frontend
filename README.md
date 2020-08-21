@@ -1,4 +1,5 @@
 # Team-087-Group-A-Frontend
+
 ## How to Make Contributions to this Repo
 
 1. Fork the repo
@@ -14,7 +15,7 @@
 
 7. Go to github and create a pull request from your fork
 
-## Branch Naming
+## Branch Naming Convention
 
 All contributors should adhere to the following branch naming format: 
 ```
